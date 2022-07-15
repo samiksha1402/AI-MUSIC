@@ -1,6 +1,6 @@
 body{
     background-size: cover;
-    background-position: center;
+
 }
 .heading{
 font-size: 23px;
@@ -27,7 +27,7 @@ margin: 0px;
     float: right;
 }
 .play-button{
-    width: 155px;
+    width: 370px;
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 20px;
